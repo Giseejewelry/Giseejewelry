@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+
+
+<meta charset="UTF-8">
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<title>
+
+Gisée FAQ | Jewelry Questions & Answers
+
+</title>
+
+
+
+<meta name="description"
+
+content="
+
+Find answers about Gisée jewelry shipping, payment, sizing, warranty and returns.
+
+">
+
+
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
+
+
+
+
+
+<style>
+
+
+:root{
+
+--blue:#75E2E0;
+
+--black:#111;
+
+}
+
+
+
+*{
+
+box-sizing:border-box;
+
+}
+
+
+body{
+
+
+margin:0;
+
+font-family:Montserrat;
+
+color:#111;
+
+
+}
+
+
+h1,h2,h3{
+
+font-family:"Playfair Display";
+
+}
+
+
+
+
+
+
+/******** HEADER ********/
+
+
+header{
+
+
+height:90px;
+
+
+display:flex;
+
+
+align-items:center;
+
+
+justify-content:space-between;
+
+
+padding:0 8%;
+
+
+}
+
+
+
+.logo img{
+
+
+height:55px;
+
+
+}
+
+
+/*
+
+LOGO:
+
+assets/images/logo/gisee-logo.svg
+
+*/
+
+
+
+nav a{
+
+
+margin:0 20px;
+
+
+text-decoration:none;
+
+
+color:#111;
+
+
+}
+
+
+
+
+
+
+
+
+/******** HERO ********/
+
+
+.hero{
+
+
+height:55vh;
+
+
+display:flex;
+
+
+align-items:center;
+
+
+justify-content:center;
+
+
+text-align:center;
+
+
+background:#75E2E0;
+
+
+}
+
+
+
+.hero h1{
+
+
+font-size:65px;
+
+
+}
+
+
+
+
+
+
+/******** FAQ ********/
+
+
+.section{
+
+
+padding:90px 15%;
+
+
+}
+
+
+
+
+.category{
+
+
+text-align:center;
+
+
+margin-bottom:60px;
+
+
+}
+
+
+
+
+.category span{
+
+
+padding:15px 30px;
+
+
+margin:10px;
+
+
+border:1px solid #ddd;
+
+
+display:inline-block;
+
+
+cursor:pointer;
+
+
+}
+
+
+
+.category span:hover{
+
+
+background:#75E2E0;
+
+
+color:white;
+
+
+}
+
+
+
+
+
+.faq-item{
+
+
+border-bottom:1px solid #ddd;
+
+
+padding:25px 0;
+
+
+}
+
+
+
+.question{
+
+
+font-size:22px;
+
+
+font-family:"Playfair Display";
+
+
+cursor:pointer;
+
+
+}
+
+
+
+.answer{
+
+
+margin-top:15px;
+
+
+line-height:2;
+
+
+color:#444;
+
+
+}
+
+
+
+
+
+
+.contact{
+
+
+background:#75E2E0;
+
+
+padding:80px;
+
+
+text-align:center;
+
+
+}
+
+
+
+.contact a{
+
+
+display:inline-block;
+
+
+margin-top:25px;
+
+
+background:white;
+
+
+color:#111;
+
+
+padding:18px 45px;
+
+
+text-decoration:none;
+
+
+}
+
+
+
+
+
+
+
+footer{
+
+
+padding:60px 8%;
+
+
+border-top:1px solid #eee;
+
+
+}
+
+
+
+
+.cookie{
+
+
+position:fixed;
+
+
+bottom:20px;
+
+
+left:20px;
+
+
+right:20px;
+
+
+background:white;
+
+
+padding:20px;
+
+
+border:1px solid #ddd;
+
+
+}
+
+
+</style>
+
+
+</head>
+
+
+
+
+
+<body>
+
+
+
+
+<header>
+
+
+
+<div class="logo">
+
+
+<img src="assets/images/logo/gisee-logo.svg">
+
+
+</div>
+
+
+
+
+<nav>
+
+
+<a href="index.html">
+
+Home
+
+</a>
+
+
+<a href="products.html">
+
+Jewelry
+
+</a>
+
+
+
+<a href="about.html">
+
+About
+
+</a>
+
+
+<a href="contact.html">
+
+Contact
+
+</a>
+
+
+</nav>
+
+
+
+<div>
+
+🛒
+
+</div>
+
+
+</header>
+
+
+
+
+
+
+
+
+
+<section class="hero">
+
+
+<div>
+
+
+<h1>
+
+Frequently Asked Questions
+
+</h1>
+
+
+<p>
+
+Everything you need to know about Gisée.
+
+</p>
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="section">
+
+
+
+
+
+
+<div class="category">
+
+
+<span>
+
+Shipping
+
+</span>
+
+
+<span>
+
+Payment
+
+</span>
+
+
+<span>
+
+Sizing
+
+</span>
+
+
+<span>
+
+Warranty
+
+</span>
+
+
+<span>
+
+Returns
+
+</span>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="faq-item">
+
+
+<div class="question">
+
+How long does shipping take?
+
+</div>
+
+
+<div class="answer">
+
+
+Orders are usually processed within
+1-3 business days.
+
+International delivery usually takes
+5-15 business days depending on destination.
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="faq-item">
+
+
+<div class="question">
+
+Do I need to pay customs duties?
+
+</div>
+
+
+
+<div class="answer">
+
+
+Customs duties and import taxes depend on
+your country's regulations.
+
+Customers are responsible for local duties when applicable.
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="faq-item">
+
+
+<div class="question">
+
+How can I choose my ring size?
+
+</div>
+
+
+
+<div class="answer">
+
+
+Please refer to our Ring Size Guide.
+
+If you need assistance,
+contact our customer service team.
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="faq-item">
+
+
+<div class="question">
+
+What materials does Gisée use?
+
+</div>
+
+
+
+<div class="answer">
+
+
+Our collections include premium materials
+such as 18K gold,
+925 sterling silver,
+diamonds and selected gemstones.
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="faq-item">
+
+
+<div class="question">
+
+Is my jewelry covered by warranty?
+
+</div>
+
+
+
+<div class="answer">
+
+
+Yes.
+
+All Gisée jewelry includes a
+2-year international warranty covering
+manufacturing defects.
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="faq-item">
+
+
+<div class="question">
+
+Can I return my order?
+
+</div>
+
+
+
+<div class="answer">
+
+
+Unused products can be returned within
+30 days after delivery.
+
+Please contact customer support before returning.
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="faq-item">
+
+
+<div class="question">
+
+What payment methods are accepted?
+
+</div>
+
+
+
+<div class="answer">
+
+
+We accept:
+
+Visa,
+Mastercard,
+PayPal,
+Apple Pay
+and other secure payment methods.
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+</section>
+
+
+
+
+
+
+
+
+
+<section class="contact">
+
+
+<h2>
+
+Still Need Help?
+
+</h2>
+
+
+<p>
+
+Our customer service team is ready to assist you.
+
+</p>
+
+
+<a href="contact.html">
+
+Contact Gisée
+
+</a>
+
+
+
+</section>
+
+
+
+
+
+
+
+
+
+<footer>
+
+
+
+<h2>
+
+Gisée
+
+</h2>
+
+
+<p>
+
+Be Seen, Be Apexed
+
+</p>
+
+
+<p>
+
+support@gisee.com
+
+</p>
+
+
+</footer>
+
+
+
+
+
+
+
+<div class="cookie">
+
+
+We use cookies to improve your shopping experience.
+
+
+<button>
+
+Accept
+
+</button>
+
+
+</div>
+
+
+
+
+
+</body>
+
+</html>

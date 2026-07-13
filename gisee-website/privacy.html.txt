@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+
+
+<meta charset="UTF-8">
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<title>
+
+Gisée Privacy Policy
+
+</title>
+
+
+
+<meta name="description"
+
+content="Gisée Jewelry privacy policy including GDPR, cookies and customer data protection."
+
+>
+
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
+
+
+
+<style>
+
+
+:root{
+
+--blue:#75E2E0;
+
+--black:#111;
+
+}
+
+
+
+*{
+
+box-sizing:border-box;
+
+}
+
+
+body{
+
+
+margin:0;
+
+font-family:Montserrat;
+
+color:#111;
+
+
+}
+
+
+
+h1,h2,h3{
+
+font-family:"Playfair Display";
+
+}
+
+
+
+
+
+
+header{
+
+
+height:90px;
+
+
+display:flex;
+
+
+align-items:center;
+
+
+justify-content:space-between;
+
+
+padding:0 8%;
+
+
+}
+
+
+
+.logo img{
+
+
+height:55px;
+
+
+}
+
+
+/*
+
+LOGO:
+
+assets/images/logo/gisee-logo.svg
+
+*/
+
+
+
+nav a{
+
+
+margin:0 20px;
+
+
+text-decoration:none;
+
+color:#111;
+
+
+}
+
+
+
+
+
+
+.hero{
+
+
+height:50vh;
+
+
+background:#75E2E0;
+
+
+display:flex;
+
+
+align-items:center;
+
+
+justify-content:center;
+
+
+text-align:center;
+
+
+}
+
+
+
+.hero h1{
+
+
+font-size:65px;
+
+
+}
+
+
+
+
+.section{
+
+
+padding:70px 15%;
+
+
+}
+
+
+
+
+.section h2{
+
+
+font-size:38px;
+
+
+margin-top:50px;
+
+
+}
+
+
+
+.section p{
+
+
+line-height:2;
+
+
+font-size:16px;
+
+
+}
+
+
+
+.highlight{
+
+
+background:#75E2E0;
+
+
+padding:50px;
+
+
+text-align:center;
+
+
+margin:50px 0;
+
+
+}
+
+
+
+footer{
+
+
+padding:60px 8%;
+
+
+border-top:1px solid #eee;
+
+
+}
+
+
+
+
+
+.cookie{
+
+
+position:fixed;
+
+
+bottom:20px;
+
+
+left:20px;
+
+
+right:20px;
+
+
+background:white;
+
+
+border:1px solid #ddd;
+
+
+padding:20px;
+
+
+}
+
+
+
+</style>
+
+
+</head>
+
+
+
+
+
+<body>
+
+
+
+
+<header>
+
+
+
+<div class="logo">
+
+
+<img src="assets/images/logo/gisee-logo.svg">
+
+
+</div>
+
+
+
+
+<nav>
+
+
+<a href="index.html">
+
+Home
+
+</a>
+
+
+
+<a href="products.html">
+
+Jewelry
+
+</a>
+
+
+<a href="about.html">
+
+About
+
+</a>
+
+
+
+<a href="contact.html">
+
+Contact
+
+</a>
+
+
+
+</nav>
+
+
+
+<div>
+
+🛒
+
+</div>
+
+
+</header>
+
+
+
+
+
+
+
+
+<section class="hero">
+
+
+<h1>
+
+Privacy Policy
+
+</h1>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+<section class="section">
+
+
+
+<p>
+
+
+At Gisée,
+we respect your privacy and are committed to protecting
+your personal information.
+
+
+This Privacy Policy explains how we collect,
+use and protect your data when you visit our website
+or purchase our jewelry.
+
+
+</p>
+
+
+
+
+
+
+<div class="highlight">
+
+
+<h2>
+
+Your Data Security
+
+</h2>
+
+
+<p>
+
+
+Your personal information is protected through
+secure systems and encrypted connections.
+
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<h2>
+
+1. Information We Collect
+
+</h2>
+
+
+<p>
+
+
+We may collect:
+
+<br><br>
+
+• Name
+
+<br>
+
+• Email address
+
+<br>
+
+• Shipping address
+
+<br>
+
+• Phone number
+
+<br>
+
+• Payment information
+
+<br>
+
+• Website browsing information
+
+
+</p>
+
+
+
+
+
+
+
+
+
+<h2>
+
+2. How We Use Your Information
+
+</h2>
+
+
+<p>
+
+
+Your information may be used for:
+
+
+<br><br>
+
+
+• Processing orders
+
+<br>
+
+• Shipping products
+
+<br>
+
+• Customer service
+
+<br>
+
+• Improving website experience
+
+<br>
+
+• Sending marketing communications when permitted
+
+
+</p>
+
+
+
+
+
+
+
+
+
+<h2>
+
+3. Payment Security
+
+</h2>
+
+
+<p>
+
+
+Gisée does not directly store complete credit card information.
+
+Payments are processed securely through trusted payment providers.
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+4. Cookies
+
+</h2>
+
+
+<p>
+
+
+Our website uses cookies to improve user experience,
+analyze traffic and provide personalized services.
+
+
+You may disable cookies through your browser settings.
+
+
+</p>
+
+
+
+
+
+
+
+
+
+<h2>
+
+5. Your Rights Under GDPR
+
+</h2>
+
+
+<p>
+
+
+European customers may request:
+
+
+<br><br>
+
+
+• Access to personal data
+
+<br>
+
+• Correction of inaccurate information
+
+<br>
+
+• Deletion of personal data
+
+<br>
+
+• Withdrawal of marketing consent
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+6. Contact Us
+
+</h2>
+
+
+<p>
+
+
+For privacy questions:
+
+<br><br>
+
+
+Email:
+
+support@gisee.com
+
+
+</p>
+
+
+
+
+</section>
+
+
+
+
+
+
+
+
+
+<footer>
+
+
+<h2>
+
+Gisée
+
+</h2>
+
+
+<p>
+
+Be Seen, Be Apexed
+
+</p>
+
+
+<p>
+
+Instagram:
+
+@gisee_jewelry
+
+</p>
+
+
+</footer>
+
+
+
+
+
+
+
+
+
+<div class="cookie">
+
+
+We use cookies to improve your shopping experience.
+
+
+<button>
+
+Accept
+
+</button>
+
+
+</div>
+
+
+
+
+
+</body>
+
+</html>

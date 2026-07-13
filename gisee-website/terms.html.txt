@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+
+
+<meta charset="UTF-8">
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<title>
+
+Gisée Terms & Conditions
+
+</title>
+
+
+<meta name="description"
+
+content="Gisée Jewelry website terms and conditions."
+
+>
+
+
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
+
+
+
+
+
+<style>
+
+
+:root{
+
+
+--blue:#75E2E0;
+
+}
+
+
+
+body{
+
+
+margin:0;
+
+
+font-family:Montserrat;
+
+
+color:#111;
+
+
+}
+
+
+h1,h2,h3{
+
+font-family:"Playfair Display";
+
+}
+
+
+
+
+header{
+
+
+height:90px;
+
+
+display:flex;
+
+
+justify-content:space-between;
+
+
+align-items:center;
+
+
+padding:0 8%;
+
+
+}
+
+
+
+
+.logo img{
+
+
+height:55px;
+
+
+}
+
+
+
+nav a{
+
+
+margin:0 20px;
+
+
+text-decoration:none;
+
+color:#111;
+
+
+}
+
+
+
+.hero{
+
+
+height:50vh;
+
+
+background:#75E2E0;
+
+
+display:flex;
+
+
+justify-content:center;
+
+
+align-items:center;
+
+
+}
+
+
+
+.hero h1{
+
+
+font-size:65px;
+
+
+}
+
+
+
+
+
+.section{
+
+
+padding:80px 15%;
+
+
+}
+
+
+
+
+.section h2{
+
+
+font-size:38px;
+
+
+margin-top:45px;
+
+
+}
+
+
+
+.section p{
+
+
+line-height:2;
+
+
+}
+
+
+
+
+
+footer{
+
+
+padding:60px 8%;
+
+
+border-top:1px solid #eee;
+
+
+}
+
+
+
+
+.cookie{
+
+
+position:fixed;
+
+bottom:20px;
+
+
+left:20px;
+
+
+right:20px;
+
+
+background:white;
+
+
+padding:20px;
+
+
+border:1px solid #ddd;
+
+
+}
+
+
+</style>
+
+
+
+</head>
+
+
+
+
+
+<body>
+
+
+
+
+<header>
+
+
+
+<div class="logo">
+
+
+<img src="assets/images/logo/gisee-logo.svg">
+
+
+</div>
+
+
+
+<nav>
+
+
+<a href="index.html">
+
+Home
+
+</a>
+
+
+<a href="products.html">
+
+Jewelry
+
+</a>
+
+
+
+<a href="about.html">
+
+About
+
+</a>
+
+
+
+<a href="contact.html">
+
+Contact
+
+</a>
+
+
+</nav>
+
+
+
+<div>
+
+🛒
+
+</div>
+
+
+
+</header>
+
+
+
+
+
+
+
+
+<section class="hero">
+
+
+<h1>
+
+Terms & Conditions
+
+</h1>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+<section class="section">
+
+
+
+
+
+<h2>
+
+1. Website Usage
+
+</h2>
+
+
+
+<p>
+
+
+By accessing Gisée website,
+you agree to comply with these terms.
+
+
+The website content is provided for personal
+shopping and informational purposes.
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+2. Products & Pricing
+
+</h2>
+
+
+<p>
+
+
+All product descriptions,
+images and prices are carefully prepared.
+
+Prices may change without prior notice.
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+3. Orders & Payment
+
+</h2>
+
+
+<p>
+
+
+Orders are confirmed after successful payment.
+
+
+Gisée reserves the right to refuse or cancel
+orders in exceptional circumstances.
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+4. Shipping
+
+</h2>
+
+
+
+<p>
+
+
+Shipping times vary depending on destination.
+
+Customers are responsible for providing accurate
+delivery information.
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+5. Returns & Exchanges
+
+</h2>
+
+
+<p>
+
+
+Returns are accepted according to our
+30-day return policy.
+
+
+Products must be unused and in original condition.
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+6. Warranty
+
+</h2>
+
+
+<p>
+
+
+Gisée provides a 2-year international warranty
+covering manufacturing defects.
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+7. Intellectual Property
+
+</h2>
+
+
+<p>
+
+
+All website content including:
+
+<br><br>
+
+
+• Brand logo
+
+<br>
+
+• Images
+
+<br>
+
+• Text
+
+<br>
+
+• Designs
+
+
+are owned by Gisée and protected by intellectual property laws.
+
+
+</p>
+
+
+
+
+
+
+
+
+<h2>
+
+8. Contact
+
+</h2>
+
+
+<p>
+
+
+For questions regarding these terms:
+
+<br><br>
+
+
+Email:
+
+support@gisee.com
+
+
+</p>
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+
+
+
+
+<footer>
+
+
+<h2>
+
+Gisée
+
+</h2>
+
+
+<p>
+
+Be Seen, Be Apexed
+
+</p>
+
+
+<p>
+
+@gisee_jewelry
+
+</p>
+
+
+</footer>
+
+
+
+
+
+
+
+
+
+<div class="cookie">
+
+
+We use cookies to improve your shopping experience.
+
+
+<button>
+
+Accept
+
+</button>
+
+
+</div>
+
+
+
+
+
+</body>
+
+</html>
